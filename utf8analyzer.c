@@ -10,5 +10,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    // implement the UTF-8 analyzer here
+    // TODO: implement the UTF-8 analyzer here
+
+
 }
